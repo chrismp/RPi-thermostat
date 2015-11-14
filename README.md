@@ -1,0 +1,1 @@
+Adafruit PiTFT 2.8@ touchscreen installation guide: https://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi/easy-install
